@@ -2,7 +2,7 @@
   "name": "day1",
   "version": "1.0.0",
   "description": "",
-  "main": "puzzle2.js",
+  "main": "puzzle1.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
